@@ -6,6 +6,12 @@ Nothing important or cool here to see, carry on.
 * `pip3 install jupyter`
 * `pip3 install numpy`
 * `pip3 install pandas`
+* `pip3 install sqlalchemy`
+* `pip3 install lxml`
+* `pip3 install html5lib`
+* `pip3 install BeautifulSoup4`
+* `pip3 install xlrd`
+* `pip3 install openpyxl`
 
 ### Do the thing
 * `jupyter notebook`
