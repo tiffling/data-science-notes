@@ -13,6 +13,7 @@ Nothing important or cool here to see, carry on.
 * `pip3 install xlrd`
 * `pip3 install openpyxl`
 * `pip3 install matplotlib`
+* `pip3 install seaborn`
 
 ### Do the thing
 * `jupyter notebook`
