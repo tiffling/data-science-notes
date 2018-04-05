@@ -14,6 +14,8 @@ Nothing important or cool here to see, carry on.
 * `pip3 install openpyxl`
 * `pip3 install matplotlib`
 * `pip3 install seaborn`
+* `pip3 install plotly`
+* `pip3 install cufflinks`
 
 ### Do the thing
 * `jupyter notebook`
