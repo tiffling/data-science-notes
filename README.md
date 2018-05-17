@@ -16,6 +16,7 @@ Nothing important or cool here to see, carry on.
 * `pip3 install seaborn`
 * `pip3 install plotly`
 * `pip3 install cufflinks`
+* `pip3 install pandas-datareader`
 
 ### Do the thing
 * `jupyter notebook`
