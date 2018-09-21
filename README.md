@@ -18,6 +18,7 @@ Nothing important or cool here to see, carry on.
 * `pip3 install cufflinks`
 * `pip3 install pandas-datareader`
 * `pip3 install scikit-learn`
+* `pip3 install nltk`
 
 ### Do the thing
 * `jupyter notebook`
